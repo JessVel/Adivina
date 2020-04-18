@@ -1,7 +1,10 @@
 # Adivina
 
 Mi primera experiencia programando con Javascript y solicitando APIs externas.
-En este sensillo juego utilice las siguientes tecnologías y librerías:
+En este sensillo juego de adivinanza utilice las siguientes tecnologías y librerías:
+
+My first experience programming with Javascript and requesting external APIs.
+In this simple guessing game use the following technologies and libraries:
 
 *HTML
 *Css
@@ -11,5 +14,10 @@ En este sensillo juego utilice las siguientes tecnologías y librerías:
 *Animate.css
 *Awesome fonts
 
-Si bien es sensillo espero que les guste. Dejen sus comentarios y feedback, estoy en constante aprendizaje!
+Si bien es sensillo espero que les guste. Dejen sus comentarios y feedback, estoy en constante aprendizaje!♥
+Although it is simple I hope you like it. Leave your comments and feedback, I am constantly learning!♥
+
+////////////////////////////////////////////////////
+
+
 
