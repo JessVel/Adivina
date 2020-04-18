@@ -14,8 +14,8 @@ In this simple guessing game use the following technologies and libraries:
 *Animate.css
 *Awesome fonts
 
-Si bien es sensillo espero que les guste. Dejen sus comentarios y feedback, estoy en constante aprendizaje!♥
-Although it is simple I hope you like it. Leave your comments and feedback, I am constantly learning!♥
+Si bien es sensillo espero que les guste, estoy en constante aprendizaje!♥
+Although it is simple I hope you like it, I'm constantly learning!♥
 
 ////////////////////////////////////////////////////
 
