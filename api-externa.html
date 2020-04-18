@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+	<html lang="es">
+
+	<head>
+		<meta charset="UTF-8">
+		<title>Mi primer juego en Javascript</title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+		<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	</head>
+
+	<body>
+
+				
+<!--alert-->
+<div  id="alert"></div>
+ 
+<!--jumbotron-->
+<div class="jumbotron">
+	<h1 class="display-4">Adivina</h1>
+	<p class="lead">Adivina un numero del 1 al 10 y ganate un gif!</p>
+	<input type="text" id="numero" value="">
+	<hr class="my-4">
+	<p class="lead">Elegi un tema para tu gif</p>
+	<input type="text" id="topic">
+	
+	<a class="btn btn-dark btn-lg" href="#" id= "btn" role="button" onclick="jugada()">Jugar</a>
+  </div>
+
+  <div id="caja"></div>
+ 
+ <!--footer--> 
+<div id="footer" class="container-fluid">
+<footer><small>Developed with love<i class="fa fa-heart"></i> by Jess Vel (April 2020)</small></footer>
+</div>
+		
+
+
+
+
+		<script src="vendor/jquery/jquery-3.4.1.min.js"></script>
+		<script src="vendor/popper/popper.min.js"></script>
+		<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+		<!--<script src="clase8.js"></script>-->
+		<script src="gifs.js"></script>
+		<!--<script src="gif2.js"></script>-->
+	</body>
+
+</html>

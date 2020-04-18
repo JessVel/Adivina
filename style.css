@@ -1,0 +1,23 @@
+body{
+    background-color: black !important;
+    margin: 0;
+    margin-bottom: 40px;
+}
+
+#btn{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 0%;
+    width: 100px;
+    height: 35px;
+  
+}
+
+#footer{
+    position: fixed;
+    bottom: 0cm;
+    background-color: white;
+}
+.jumbotron{
+    border-radius:  0% !important;
+}
